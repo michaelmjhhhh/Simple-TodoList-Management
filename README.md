@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Timekeeper
 
 [Download ⬇️](https://github.com/roshan669/TimeKeeper/releases/download/timekeeper/timeKeeper.apk)
@@ -17,3 +18,6 @@
 
 ### Download the latest version from releases
  [Download](https://github.com/roshan669/TimeKeeper/releases)
+=======
+# Simple-TodoList-Management
+>>>>>>> main
